@@ -10,7 +10,7 @@
 </p>
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%237522-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Louco#9528-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/SarnaxLii">
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
@@ -41,7 +41,7 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/SarnaxLii">
+    <a href="https://github.com/LoucoHex">
         <img title="SarnaxLii stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
