@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://sarnaxlii.github.io/sarnax.github.io/">
-   <img alt="Github" src="https://img.shields.io/badge/EM BREVE.COM-WEBSITE-red"></a> 
+   <img alt="Github" src="https://img.shields.io/badge/LOUCODEV.COM-WEBSITE-red"></a> 
   
 
 
@@ -52,7 +52,7 @@
 
 ✔️・Full Stack Developer
 
-📩・Cheating Private - Source code - Spoofer / Dm discord [Louco#9528](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
+📩・Cheating Private - Source code - Spoofer / Dm discord [Louco#9528](https://discord.com/users/943374631644045363) or mail 
 
 🌐・Website: [loucodev.com]
 
