@@ -12,7 +12,7 @@
     <a href="https://discord.com/users/931174150431727666">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Louco-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/LoucoHex">
-   <img alt="Github" src="https://img.shields.io/github/followers/LoucoHax?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+   <img alt="Github" src="https://img.shields.io/github/followers/LoucoHex?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
@@ -42,23 +42,23 @@
 
 <p align="center">
     <a href="https://github.com/LoucoHex">
-        <img title="SarnaxLii stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="SarnaxLii stats" alt="LoucoHex's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/LoucoHex"><img alt="LoucoHex's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
 <h2 align="center">Contact me</h2>
 
 ✔️・Full Stack Developer
 
-📩・Cheating Private - Source code - Spoofer / Dm discord [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
+📩・Cheating Private - Source code - Spoofer / Dm discord [Louco#9528](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
 
-🌐・Website: [Sarnax.com](https://sarnaxlii.github.io/sarnax.github.io/)
+🌐・Website: [loucodev.com]
 
 📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA 
 
-🎮・Add friend in steam : [Sarnax](https://steamcommunity.com/id/sarnaxOfficial/)
+🎮・Add friend in steam : [Louco](https://steamcommunity.com/id/Louco/)
 
 </pre><br>
 
