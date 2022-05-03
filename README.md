@@ -22,7 +22,7 @@
   
 </p>
 <p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="amo ela" width="300" align/>
+<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Ari Abdul" width="300" align/>
 </p>
 
 
