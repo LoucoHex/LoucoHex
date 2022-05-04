@@ -52,7 +52,7 @@
 
 ✔️・Full Stack Developer
 
-📩・Cheating Private - Source code - Spoofer / Dm discord [Louco#9528](https://discord.com/users/943374631644045363) or mail 
+📩・Cheating Private - Source code - Spoofer / Dm discord [Louco#9528](https://discord.com/users/943374631644045363) or mail flixproductsx@gmail.com
 
 🌐・Website: [loucodev.com]
 
