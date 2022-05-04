@@ -62,16 +62,6 @@
 
 </pre><br>
 
-
-
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/">
-        <img title="Sarnax discord" alt="LoucoHex's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
-    </a>
-</p>
-
 <!--
 **LoucoHex/LoucoHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Hello
 
