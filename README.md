@@ -1,7 +1,7 @@
 <h2 align="center">
 
 <p align="center">
-  <a href="https://sarnaxlii.github.io/sarnax.github.io/">
+  <a href="https://loucohex.github.io/loucohex.github.io/">
    <img alt="Github" src="https://img.shields.io/badge/LOUCODEV.COM-WEBSITE-red"></a> 
   
 
