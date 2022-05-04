@@ -58,7 +58,7 @@
 
 📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA 
 
-🎮・Add friend in steam : [Louco](https://steamcommunity.com/id/Louco/)
+🎮・Add friend in steam : [Louco](https://steamcommunity.com/id/LoucoHex/)
 
 </pre><br>
 
@@ -67,8 +67,8 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/sFUeS3E6Sz">
-        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
+    <a href="https://discord.gg/">
+        <img title="Sarnax discord" alt="LoucoHex's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
     </a>
 </p>
 
