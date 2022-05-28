@@ -52,7 +52,7 @@
 
 ✔️・Full Stack Developer
 
-📩・Cheating Private - Source code - FiveM Cheat / Dm discord [Louco#9528](https://discord.com/users/943374631644045363) or mail loucodev@kaiquemenu.com
+📩・Cheating Private - Source code - FiveM Cheat / Dm discord [Louco#9528](https://discord.com/users/943374631644045363) or mail contact.loucohex@gmail.com
 
 🌐・Website: [loucodev.com]
 
