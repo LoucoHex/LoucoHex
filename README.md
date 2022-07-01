@@ -52,7 +52,7 @@
 
 ✔️・Full Stack Developer
 
-📩・Dm discord [Louco#9528](https://discord.com/users/931174150431727666) or mail contact.loucohex@gmail.com
+📩・Dm discord [Kaique#3924](https://discord.com/users/931174150431727666) or mail contact.loucohex@gmail.com
 
 🌐・Website: [loucodev.com]
 
